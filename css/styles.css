@@ -29,7 +29,12 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
-
+.badge-danger{
+    background-color: #d85656;
+}
+.badge-pill {
+    background-color: #5e5b5b;
+}
 address{
     font-size:80%;
     margin:0px;
